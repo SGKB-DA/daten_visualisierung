@@ -1,0 +1,11 @@
+name: daten_visualisierung
+title:
+username:
+account: sgkb-da
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5580129
+bundleId: 5541646
+url: https://sgkb-da.shinyapps.io/daten_visualisierung/
+when: 1643958846.08344
+lastSyncTime: 1643958846.08345

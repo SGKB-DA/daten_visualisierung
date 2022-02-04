@@ -89,6 +89,7 @@ if(baseSystem == 'linux'){
     library(tidyr)
     library(d3r)
     library(sunburstR)
+    library(corrplot)
  
     
     
